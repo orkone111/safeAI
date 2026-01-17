@@ -1,1 +1,1 @@
-Project Goal: Create a mobile banking app with login and transfer features. Make it modern and compact.
+Project Goal: Create a mobile banking app for android and iphone. Make it compact and modern.
