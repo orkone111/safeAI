@@ -1,1 +1,0 @@
-A shareable Figma project containing the complete UI design for the sports application shall be delivered.
